@@ -1,0 +1,28 @@
+WHICH FUNCTION IS WHICH
+
+---- CODE FOR FINAL MODEL -------
+Project 1 Report.m - Where we call our Optimization and Regression
+
+FAMAOLS.m - fama regression model
+
+RTURNMVO.m - robust model tradeoff between min variance, max mu, min turnover
+
+---- CODE USED IN REPORT BUT NOT FINAL MODEL ------
+
+OLS.m - default regression with all parameters
+
+INVOLS.m - inverse FamaFrench regression (parameters 6-8)
+
+MVO.m - regular min variance MVO
+
+RMVO.m - Chi-squared robust MVO
+
+TURNMVO.m - min variance and turnover rate
+
+MINMVO.m - buyin threshold integer optimization (takes long af to run)
+
+TMVO.m - tradeoff between min variance and max mu
+
+
+
+
